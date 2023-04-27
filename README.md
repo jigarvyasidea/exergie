@@ -1,3 +1,53 @@
+# EXERGIE'23 - College Tech Fest - README File
+
+Welcome to EXERGIE'23, a national level technical carnival organized by the Computer Science and I.T. Department. Our event is designed to challenge and enhance the skills of students across various categories of competition. We aim to promote a new methodology for the development of the spirit of competition at the technical level, while enhancing students' abilities to improve their concentration and speed.
+
+#Event Details
+
+Date:  11-12 May 2023
+
+Venue: ACEIT Jaipur
+
+## Competitions and Events
+
+Our event offers a diverse range of competitions and events that cater to different interests and skill sets. Here are some of the major attractions:
+
+Blind Coding
+Inspired by Queens Gambit, this event challenges participants to test their coding skills while being blindfolded.
+
+Squid Games
+For all you online gaming enthusiasts, we have Squid Games, where you can compete with other players online and emerge victorious.
+
+CTF [Capture the Flag]
+Our CTF event is inspired by The Witcher challenge and tests participants' skills in capturing the flag.
+
+Chatbot Builder
+Use your skills to build a chatbot that's inspired by Black Mirror, and battle it out with other players.
+
+Reverse Coding
+Join us for Kaleidoscope and use your coding skills to reverse engineer the code.
+
+Lost in Space
+Get ready to take on a challenge that's out of this world in our Lost in Space event, where you'll use your skills in Computer Vision to find your way back to Earth.
+
+CSS Battle
+Battle it out with other players using CSS in our Demon Slayer event.
+
+Drone Racing
+Join us for Try to Survive and race your drone to victory.
+
+
+#Sponsors
+With over 4000 footfalls, EXERGIE'23 is the perfect platform for brands to connect with tech-savvy young minds. Our event offers a unique opportunity for sponsors to showcase their brand, products, and services to an engaged audience of students, professors, and professionals.
+
+#Join Us
+Join us for EXERGIE'23, and be a part of an innovative and challenging technical carnival that will take your skills to the next level. It's not just a technical carnival; it's an opportunity for sponsors to connect with a diverse and engaged audience of over 4000 young and talented students. We can't wait to see you there!
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
